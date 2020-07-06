@@ -1,5 +1,5 @@
-
-
+sklearn==0.23
+interpet==0.1.22          # intrepet ML models
 cycler==0.10.0            # via matplotlib
 kiwisolver==1.2.0         # via matplotlib
 matplotlib==3.2.1
