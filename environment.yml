@@ -11,5 +11,5 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - interpretml
+  - interpret
   - scikit-learn
