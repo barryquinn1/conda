@@ -1,5 +1,5 @@
-sklearn==0.23
-interpet==0.1.22          # intrepet ML models
+scikit-learn==0.23
+interpret==0.1.22          # intrepret ML models
 cycler==0.10.0            # via matplotlib
 kiwisolver==1.2.0         # via matplotlib
 matplotlib==3.2.1
